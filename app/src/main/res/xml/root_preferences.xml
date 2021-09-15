@@ -1,0 +1,12 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <PreferenceCategory app:layout="@layout/fragment_layout_info"/>
+    <PreferenceCategory app:title="Important Numbers">
+        <!-- Create a generic Preference that contains a layout-->
+        <Preference app:layout="@layout/fragment_layout_important_numbers"/>
+    </PreferenceCategory>
+    <PreferenceCategory app:title="Setting">
+        <SwitchPreferenceCompat
+            app:title="Dark Mode"
+            app:key="dark_mode" />
+    </PreferenceCategory>
+</PreferenceScreen>
