@@ -1,0 +1,16 @@
+edu/hkbu/comp/comp4097/infodat/BuildConfig.java
+ edu.hkbu.comp.comp4097.infodat.BuildConfig
+edu/hkbu/comp/comp4097/infodat/databinding/FragmentNotificationsBinding.java
+ edu.hkbu.comp.comp4097.infodat.databinding.FragmentNotificationsBinding
+edu/hkbu/comp/comp4097/infodat/databinding/FragmentLayoutInfoBinding.java
+ edu.hkbu.comp.comp4097.infodat.databinding.FragmentLayoutInfoBinding
+edu/hkbu/comp/comp4097/infodat/databinding/ActivityMainBinding.java
+ edu.hkbu.comp.comp4097.infodat.databinding.ActivityMainBinding
+edu/hkbu/comp/comp4097/infodat/databinding/FragmentHomeBinding.java
+ edu.hkbu.comp.comp4097.infodat.databinding.FragmentHomeBinding
+edu/hkbu/comp/comp4097/infodat/databinding/FragmentMapsBinding.java
+ edu.hkbu.comp.comp4097.infodat.databinding.FragmentMapsBinding
+edu/hkbu/comp/comp4097/infodat/databinding/FragmentDashboardBinding.java
+ edu.hkbu.comp.comp4097.infodat.databinding.FragmentDashboardBinding
+edu/hkbu/comp/comp4097/infodat/databinding/FragmentLayoutImportantNumbersBinding.java
+ edu.hkbu.comp.comp4097.infodat.databinding.FragmentLayoutImportantNumbersBinding
